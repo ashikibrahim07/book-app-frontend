@@ -1,7 +1,7 @@
 import axios from "axios";
 import React, { useEffect, useState } from "react";
 import { useNavigate } from "react-router-dom";
-import getBaseUrl from "../../utils/baseURL";
+import getBaseUrl from "../../utils/baseUrl";
 import Loading from "../../components/Loading";
 import { MdIncompleteCircle } from "react-icons/md";
 import RevenueChart from "./RevenueChart";
