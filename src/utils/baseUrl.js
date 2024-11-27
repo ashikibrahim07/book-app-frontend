@@ -1,5 +1,5 @@
 const getBaseUrl = () => {
-  return "http://localhost:5000";
+  return "https://bank-app-backend-lemon.vercel.app";
 };
 
 export default getBaseUrl;
